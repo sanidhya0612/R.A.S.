@@ -1,0 +1,57 @@
+body
+{
+    font-family:'Alkatra', cursive;
+    font-weight: bold;
+    background: moccasin;
+}
+
+.header_div
+{
+    font-family:'Delicious Handrawn', cursive;
+    background-color: red;
+    color: yellow;
+}
+
+.header_div p
+{
+    font-family:'Alkatra', cursive;
+    color:yellowgreen;
+    letter-spacing: 2px;
+    font-size: 20px;
+    
+}
+
+h3
+{
+    font-size: 40px;
+}
+
+img
+{
+    height: 450px;
+    width:450px;
+    margin-left: 30px;
+}
+
+.main_div button
+{
+    margin-top: 20px;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-weight: bolder;
+    width:120px;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    background-color:cornsilk;
+    color: fuchsia;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
